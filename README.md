@@ -1,7 +1,7 @@
 mlops
 ==============================
 
-end to end mlops
+Learning end to end MLOps using Cookiecutter, DVC, MLFlow, GitHub and Flask
 
 Project Organization
 ------------
